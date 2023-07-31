@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PPAMP3-Latihan3</string>
+    <string name="kumpulan_gambar_kucing">Kucing</string>
+    <string name="cata">cata</string>
+    <string name="catb">catB</string>
+    <string name="catc">catC</string>
+    <string name="catd">catD</string>
+    <string name="cate">catE</string>
+    <string name="catf">catF</string>
+    <string name="takut">Takut</string>
+    <string name="lucu">Lucu</string>
+    <string name="kaget">Kaget</string>
+    <string name="biasa">Biasa</string>
+    <string name="lari">Lari</string>
+    <string name="kirim">KIRIM</string>
+    <string name="scrollView" />
+</resources>
